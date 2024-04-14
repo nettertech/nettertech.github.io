@@ -36,6 +36,6 @@ body {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    font-size: 150px;
+    font-size: 10px;
     font-family: sans-serif;
 }
