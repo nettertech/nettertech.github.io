@@ -1,5 +1,3 @@
-var load = document.getElementById("loading");
-
 var dialog = document.getElementsByClassName("dialog")[0];
 var variableBorder = 1;
 var changeBorder = setInterval(change, 300);
@@ -9,7 +7,7 @@ function change() {
         dialog.style.border = "none";
         variableBorder = 2;
     } else if (variableBorder == 2) {
-        dialog.style.borderRight = "20px solid white";
+        dialog.style.borderRight = "10px solid white";
         variableBorder = 1;
     }
 }
