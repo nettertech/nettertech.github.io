@@ -34,6 +34,7 @@ var texts;
 type();
 
 function type() {
+    dialog.style.fontsize = "50px"
     dialogs["value" + namber]();
 
     dialog.innerHTML = "";
