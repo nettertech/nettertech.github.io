@@ -18,7 +18,7 @@ var dialogs = {
         timer = 150;
     },
     value1: function() {
-        texts = "Proximamente...";
+        texts = "Próximamente...";
         timer = 150;
     },
     value2: function() {
