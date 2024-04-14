@@ -31,7 +31,7 @@ body {
     height: 50px;
     min-width: 50px;
     border-right: 25px solid rgb(255, 255, 255);
-    top: calc(50% - 20px);
+    top: calc(50% - 40px);
     left: 20%;
     display: flex;
     justify-content: flex-start;
