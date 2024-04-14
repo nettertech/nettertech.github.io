@@ -56,7 +56,7 @@ function type() {
             if (namber == Object.keys(dialogs).length) {
                 clearInterval(writes);
                 namber = 0;
-                positionLetter = 0;                
+                //positionLetter = 0;                
             }
             setTimeout(type, 1500);
             return;
